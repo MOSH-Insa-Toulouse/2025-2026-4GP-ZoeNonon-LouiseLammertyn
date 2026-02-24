@@ -194,9 +194,9 @@
       ],
       "track_widths": [
         0.0,
-        0.2,
         0.4,
-        0.6
+        0.6,
+        0.8
       ],
       "tuning_pattern_settings": {
         "diff_pair_defaults": {
@@ -472,6 +472,7 @@
       "single_global_label": "ignore",
       "unannotated": "error",
       "unconnected_wire_endpoint": "warning",
+      "undefined_netclass": "error",
       "unit_value_mismatch": "error",
       "unresolved_variable": "error",
       "wire_dangling": "error"
