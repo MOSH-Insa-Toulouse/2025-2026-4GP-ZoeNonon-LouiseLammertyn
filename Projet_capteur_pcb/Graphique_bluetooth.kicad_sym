@@ -811,7 +811,7 @@
 		)
 		(symbol "aop_1_1"
 			(pin input line
-				(at -10.16 8.89 0)
+				(at -12.7 8.89 0)
 				(length 2.54)
 				(name "NC"
 					(effects
@@ -829,7 +829,7 @@
 				)
 			)
 			(pin input line
-				(at -10.16 3.81 0)
+				(at -12.7 3.81 0)
 				(length 2.54)
 				(name "-IN"
 					(effects
@@ -847,7 +847,7 @@
 				)
 			)
 			(pin input line
-				(at -10.16 -2.54 0)
+				(at -12.7 -2.54 0)
 				(length 2.54)
 				(name "+IN"
 					(effects
@@ -865,7 +865,7 @@
 				)
 			)
 			(pin input line
-				(at -10.16 -7.62 0)
+				(at -12.7 -7.62 0)
 				(length 2.54)
 				(name "V-"
 					(effects
@@ -874,7 +874,7 @@
 						)
 					)
 				)
-				(number "6"
+				(number "4"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -883,7 +883,7 @@
 				)
 			)
 			(pin input line
-				(at 10.16 8.89 0)
+				(at 12.7 8.89 180)
 				(length 2.54)
 				(name "NC"
 					(effects
@@ -901,7 +901,7 @@
 				)
 			)
 			(pin input line
-				(at 10.16 2.54 0)
+				(at 12.7 2.54 180)
 				(length 2.54)
 				(name "V+"
 					(effects
@@ -919,7 +919,7 @@
 				)
 			)
 			(pin input line
-				(at 10.16 -2.54 0)
+				(at 12.7 -2.54 180)
 				(length 2.54)
 				(name "OUT"
 					(effects
@@ -937,7 +937,7 @@
 				)
 			)
 			(pin input line
-				(at 10.16 -7.62 0)
+				(at 12.7 -7.62 180)
 				(length 2.54)
 				(name "EXT_CLOCK"
 					(effects
